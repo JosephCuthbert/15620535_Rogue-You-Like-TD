@@ -2,7 +2,7 @@
 
 This project is based on reusing assets from a Unity tutorial. We were given
 complete creative control over the project, as long as there was 1 major
-difference. We could choose any genre, as long as the assets are all the same.
+difference. We could choose any genre, if the assets are all the same.
 Only the UI could have custom assets. 
 
 The main challenge was that we had to add a feature that was not normal for 
@@ -15,5 +15,6 @@ submitted, they ensured that a video was submitted showcasing at least
 Thank you for looking at my work. 
 
 Regards, 
+
 Joseph Cuthbert
 University of Lincoln Student
